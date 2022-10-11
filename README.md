@@ -1,5 +1,7 @@
+<div align="center" display="grid">
+<img src="https://user-images.githubusercontent.com/103968421/195203353-0a9fcddf-92aa-4ce3-86b9-dffebdc93c28.gif?raw=true" alt="Sublime's custom image"/>
+  <div/>
 
-<img align="center" src="https://https://user-images.githubusercontent.com/103968421/195199048-c5840b65-9839-4dc0-be7f-ec9fd3b5c22d.gif?raw=true" alt="Sublime's custom image"/>
 <h3 aling="center">A passionate Full Stack Developer from Argentina<h3>
 
 # Welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
